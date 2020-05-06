@@ -1,0 +1,2 @@
+# JuliaSet
+JuliaSet Privacy Policy
